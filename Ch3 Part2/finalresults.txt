@@ -1,0 +1,14 @@
+13
+Blue, Russell negative
+Bushnell, Rachel negative
+Ellery, Selena negative
+Franken, Carol positive
+Jackson, Bellamy positive
+King, Ellen positive
+McNally, Paul negative
+Smith, Jim positive
+Smith, Joe negative
+Smithson, Frank negative
+Washington, Denika negative
+White, Bill negative
+White, Karen positive

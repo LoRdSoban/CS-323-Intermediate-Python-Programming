@@ -1,0 +1,11 @@
+5
+White, Karen
+negative
+Smith, Joe
+negative
+King, Ellen
+positive
+Smith, Joe
+negative
+Smith, Jim
+negative

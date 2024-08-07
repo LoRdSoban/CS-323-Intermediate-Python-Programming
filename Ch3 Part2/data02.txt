@@ -1,0 +1,21 @@
+10
+White, Bill
+negative
+Ellery, Selena
+negative
+Smith, Joe
+negative
+Smith, Jim
+positive
+Blue, Russell
+negative
+Washington, Denika
+negative
+Smithson, Frank
+negative
+Jackson, Bellamy
+positive
+White, Karen
+negative
+Bushnell, Rachel
+negative
